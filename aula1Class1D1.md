@@ -22,6 +22,7 @@ Algoritmo "Goleiro . Goalkeeper"
 
 // Actual Date : 03/09/2021
 
+
 Var
 
 // Seção de Declarações das variáveis
@@ -31,6 +32,7 @@ Var
 goleiro: caractere
 
 //goalkeeper: String
+
 
 Inicio
 
@@ -48,9 +50,11 @@ leia(goleiro)
 
 //read(goalkeeper)
 
+
 escreval("Vai que é sua ",goleiro,"!!!")
 
 //writel("Go on ",goalkeeper,"!!!")
+
 
 Fimalgoritmo
 
