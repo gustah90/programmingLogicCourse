@@ -1,6 +1,6 @@
 #First Class
-]
-]Programming Logic Course
+
+Programming Logic Course
 
 My exercises and demonstrations of my classes
 
