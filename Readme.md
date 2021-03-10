@@ -1,8 +1,6 @@
-#First Class
+#Programming Logic Course
 
-Programming Logic Course
-
-My exercises and demonstrations of my classes
+My exercises and demonstrations from my classes
 
 The basic of algorithms and the logic from them
 
