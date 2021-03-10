@@ -33,4 +33,4 @@ escreval("Vai que é sua ",goleiro,"!!!")
 //writel("Go on ",goalkeeper,"!!!")
 
 Fimalgoritmo
-//End algorithm
+//Endalgorithm
