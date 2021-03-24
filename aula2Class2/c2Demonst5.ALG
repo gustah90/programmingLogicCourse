@@ -1,10 +1,10 @@
-Algoritmo "Card·pio2"
+Algoritmo "Card√°pio2"
 //Algorithm "Menu2"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [LÛgica de ProgramaÁ„o]
+// Disciplina   : [L√≥gica de Programa√ß√£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// DescriÁ„o   : SimulaÁ„o de sistema de pedidos em lanchonete
+// Descri√ß√£o   : Simula√ß√£o de sistema de pedidos em lanchonete
 // Description : Simulation of order program on snack bar
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,14 +12,14 @@ Algoritmo "Card·pio2"
 // Actual Date : 03/16/2021
 
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    // Variable Declaration Section
    nome, pedido: caractere
    //name, order: String
 
 Inicio
    //Beginning
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    escreval("=======Bem-vindo(a) ao sistema de pedidos!=======")
    //writel("=======Welcome to the order program!=======")
@@ -55,7 +55,7 @@ Inicio
       //writel("A potato chips on point to ",name,"!")
    outrocaso
    //othercase
-      escreval("Pedido n„o encontrado!")
+      escreval("Pedido n√£o encontrado!")
       //writel("Order not found")
 
    fimescolha
