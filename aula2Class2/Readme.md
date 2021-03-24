@@ -1,4 +1,4 @@
-#Class 2
+#Bonus_Exercises
 
 The basic of programming logic in "portugol"
 
