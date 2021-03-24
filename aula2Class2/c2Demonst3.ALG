@@ -1,10 +1,10 @@
 Algoritmo "Aprovado ou reprovado"
 //Algorithm "Aprooved or disapproved"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [LÛgica de ProgramaÁ„o]
+// Disciplina   : [L√≥gica de Programa√ß√£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// DescriÁ„o   : Receber dados de n˙meros, exibir a situaÁ„o
+// Descri√ß√£o   : Receber dados de n√∫meros, exibir a situa√ß√£o
 // Description : Receive data from numbers, display the situation
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,7 +12,7 @@ Algoritmo "Aprovado ou reprovado"
 // Actual Date : 03/23/2021
 
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    // Variable Declaration Section
 
    nota: real
@@ -20,7 +20,7 @@ Var
 
 Inicio
    //Beginning
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    escreval("=======Bem-vindo(a) ao sistema de notas!=======")
    //writel("=======Welcome to the grade system!=======")
@@ -39,11 +39,11 @@ Inicio
 
    se (nota >= 7) entao
       //if (grade >= 7) then
-      escreval("=======VOC  EST¡ APROVADO!======")
+      escreval("=======VOC√ä EST√Å APROVADO!======")
       //writel("==========YOU'RE APPROVED!==========")
    senao
       //else
-      escreval("=======VOC  EST¡ REPROVADO!=====")
+      escreval("=======VOC√ä EST√Å REPROVADO!=====")
       //writel("==========YOU'RE DISAPPROVED!==========")
    fimse
    //endif
