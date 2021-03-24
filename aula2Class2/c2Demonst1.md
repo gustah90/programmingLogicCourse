@@ -1,10 +1,10 @@
-Algoritmo "Campeonato de Natação"
+Algoritmo "Campeonato de NataÃ§Ã£o"
 //Algorithm "Swimming Champioship"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Captar e mostrar dados de uma entrevista de emprego
+// DescriÃ§Ã£o   : Captar e mostrar dados de uma entrevista de emprego
 // Description : Capture and show personal data from a job interview
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,7 +12,7 @@ Algoritmo "Campeonato de Natação"
 // Actual Date : 03/23/2021
 
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 // Variable Declaration Section
 nome: caractere
 //name: String
@@ -23,9 +23,9 @@ nascimento: inteiro
 
 Inicio
 //Beginning
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 // Commands section, procedure, functions, operators, etc...
-escreval("=======Bem-vindo(a) ao Campeonato de Natação!=======")
+escreval("=======Bem-vindo(a) ao Campeonato de NataÃ§Ã£o!=======")
 //writel("=======Welcome to the Swimming Champioship=======")
 escreval(" ")
 //writel(" ")
