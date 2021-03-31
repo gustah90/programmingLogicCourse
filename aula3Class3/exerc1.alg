@@ -1,10 +1,10 @@
-Algoritmo "Usando cláusula enquanto e escolha-caso"
+Algoritmo "Usando clÃ¡usula enquanto e escolha-caso"
 //Algorithm "Using clause while and switch case"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o
 // Description : Repetition example
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,7 +12,7 @@ Algoritmo "Usando cláusula enquanto e escolha-caso"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    n1, n2, r: real
    //n1, n2, r: real
@@ -21,11 +21,11 @@ Var
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    escreval("==================CALCULADORA==================")
    //writel("=================CALCULATOR==================")
-   escreval("       Deseja fazer alguma operação?")
+   escreval("       Deseja fazer alguma operaÃ§Ã£o?")
    //writel("Do you want to do any operation?")
    escreval("Digite [s] para prosseguir ou [n] para concluir")
    //writel("Type [s] to proceed or [n] to complete")
@@ -38,21 +38,21 @@ Inicio
    enquanto (repeticao = "S") ou (repeticao = "s") faca
       //while repetition = "s" do
 
-      escreval("Qual o 1º número?")
+      escreval("Qual o 1Âº nÃºmero?")
       //writel("What is the first number?")
       leia(n1)
       //read(n1)
       escreval(" ")
       //writel(" ")
-      escreval("Qual a operação?")
+      escreval("Qual a operaÃ§Ã£o?")
       //writel("What is the math operation?")
-      escreval("adição (+) | subtração (-) | divisão(/) | multiplicação (*)")
+      escreval("adiÃ§Ã£o (+) | subtraÃ§Ã£o (-) | divisÃ£o(/) | multiplicaÃ§Ã£o (*)")
       //writel("addition (+) | subtraction (-) | division(/) | multiplication (*)")
       leia(operacao)
       //read(operation)
       escreval(" ")
       //writel(" ")
-      escreval("Qual o 2º número?")
+      escreval("Qual o 2Âº nÃºmero?")
       //writel("What is the second number?")
       leia(n2)
       //read(n2)
@@ -63,28 +63,28 @@ Inicio
       escolha operacao
          //switch or choice operation
 
-      caso "+" , "adicao" , "adição" , "Adição" , "ADIÇÃO" , "ADICAO" , "aDICAO" , "aDIÇÃO"
+      caso "+" , "adicao" , "adiÃ§Ã£o" , "AdiÃ§Ã£o" , "ADIÃ‡ÃƒO" , "ADICAO" , "aDICAO" , "aDIÃ‡ÃƒO"
          //case "+"
          r <- n1+n2
          escreval(n1,"  + ",n2,"  = ",r)
-      caso "-" , "subtracao" , "subtração" , "Subtração" , "SUBTRAÇÃO" , "SUBTRACAO" , "sUBTRACAO" , "sUBTRAÇÃO"
+      caso "-" , "subtracao" , "subtraÃ§Ã£o" , "SubtraÃ§Ã£o" , "SUBTRAÃ‡ÃƒO" , "SUBTRACAO" , "sUBTRACAO" , "sUBTRAÃ‡ÃƒO"
          //case "-"
          r <- n1-n2
          escreval(n1,"  - ",n2,"  = ",r)
          //writel
-      caso "/" , "divisao" , "divisão" , "Divisão" , "DIVISÃO" , "DIVISAO" , "dIVISAO" , "dIVISÃO"
+      caso "/" , "divisao" , "divisÃ£o" , "DivisÃ£o" , "DIVISÃƒO" , "DIVISAO" , "dIVISAO" , "dIVISÃƒO"
          //case "/"
          r <- n1/n2
          escreval(n1,"  / ",n2,"  = ",r)
          //writel
-      caso "*" , "multiplicacao" , "multiplicação" , "Multiplicação" , "MULTIPLICAÇÃO" , "MULTIPLICACAO" , "mULTIPLICACAO" , "mULTIPLICAÇÃO"
+      caso "*" , "multiplicacao" , "multiplicaÃ§Ã£o" , "MultiplicaÃ§Ã£o" , "MULTIPLICAÃ‡ÃƒO" , "MULTIPLICACAO" , "mULTIPLICACAO" , "mULTIPLICAÃ‡ÃƒO"
          //case "*"
          r <- n1*n2
          escreval(n1,"  * ",n2,"  = ",r)
          //writel
       outrocaso
          //othercase
-         escreval("Operação não suportada. Tente Novamente!")
+         escreval("OperaÃ§Ã£o nÃ£o suportada. Tente Novamente!")
          //writel("Unsupported operation. Try again!")
 
       fimescolha
@@ -92,7 +92,7 @@ Inicio
 
       escreval(" ")
       //writel(" ")
-      escreval("     Deseja fazer mais alguma operação?")
+      escreval("     Deseja fazer mais alguma operaÃ§Ã£o?")
       //writel("Do you want to do any more operation?")
       escreval("Digite [s] para prosseguir ou [n] para concluir")
       //writel("Type [s] to proceed or [n] to complete")
@@ -109,7 +109,7 @@ Inicio
    //writel("END OF THE CALCULATOR")
    escreval(" ")
    //writel(" ")
-   escreval("                Até a próxima!")
+   escreval("                AtÃ© a prÃ³xima!")
    //writel("See you later!")
 
 Fimalgoritmo
