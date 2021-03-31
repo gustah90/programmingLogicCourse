@@ -1,10 +1,10 @@
 Algoritmo "Contagem usando repita"
 //Algorithm "Count using repeat"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição usando repita
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o usando repita
 // Description : Repetition example using repeat
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,14 +12,14 @@ Algoritmo "Contagem usando repita"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    contador: inteiro
    //counter: int
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    repita
    //repeat
