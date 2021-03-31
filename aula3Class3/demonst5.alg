@@ -1,10 +1,10 @@
 Algoritmo "Somando Enquanto"
 //Algorithm "Summing While"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Somar idade de um time
+// DescriÃ§Ã£o   : Somar idade de um time
 // Description : To sum age from team
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,7 +12,7 @@ Algoritmo "Somando Enquanto"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    media: real
    //average: real
@@ -21,14 +21,14 @@ Var
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    contador <- 1
    //counter <- 1
 
    enquanto contador <= 6 faca
-      escreval("Qual a idade do",contador,"º jogador?")
-      //writel("What is the age of",counter,"º player?")
+      escreval("Qual a idade do",contador,"Âº jogador?")
+      //writel("What is the age of",counter,"Âº player?")
       leia(idade)
       //read(age)
       contador <- contador + 1
@@ -40,7 +40,7 @@ Inicio
    media <- soma/6
    //average <- sum/6
 
-   escreval("Média da idade: ",media:2:2)
+   escreval("MÃ©dia da idade: ",media:2:2)
    //writel("Average age: ",average:2:2)
 
 Fimalgoritmo
