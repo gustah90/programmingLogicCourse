@@ -1,10 +1,10 @@
 Algoritmo "Login usando repita e se"
 //Algorithm "Login using repeat and if"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição usando repita e se
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o usando repita e se
 // Description : Repetition example using repeat  and if
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,14 +12,14 @@ Algoritmo "Login usando repita e se"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    senha, senhaInformada: caractere
    //password, passwordEntered: String
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    senha <- "1234"
    //password <- "1234"
