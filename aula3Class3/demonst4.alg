@@ -1,10 +1,10 @@
 Algoritmo "Somando Repita"
 //Algorithm "Summing Repeat"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição usando repita
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o usando repita
 // Description : Repetition example using repeat
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,7 +12,7 @@ Algoritmo "Somando Repita"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    numero, soma: real
    //number, sum: real
@@ -21,20 +21,20 @@ Var
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    contador <- 1
    //counter <- 1
 
-   escreval("Quantos números deseja somar?")
+   escreval("Quantos nÃºmeros deseja somar?")
    //writel("How many numbers  do you want to sum?")
    leia(quantidade)
    //read(quantity
 
    repita
       //repeat
-      escreval("Qual o ",contador,"º número?")
-      //writel("Which the ",counter,"º number?")
+      escreval("Qual o ",contador,"Âº nÃºmero?")
+      //writel("Which the ",counter,"Âº number?")
       leia(numero)
       //read(number)
       contador <- contador + 1
