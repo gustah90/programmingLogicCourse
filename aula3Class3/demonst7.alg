@@ -1,10 +1,10 @@
 Algoritmo "Tabuada com Para"
 //Algorithm "Multiplication table with for"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição usando para
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o usando para
 // Description : Repetition example using for
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,18 +12,18 @@ Algoritmo "Tabuada com Para"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    contador, numero, resultado: inteiro
    //counter, number, result: int
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
-   escreval("Qual número deseja conhecer a tabuada?")
+   escreval("Qual nÃºmero deseja conhecer a tabuada?")
    //writel("Which number do you want to know the multiplication table?")
-   escreva("Digite o número: ")
+   escreva("Digite o nÃºmero: ")
    //writel("Type the number: ")
    leia(numero)
    //read(number)
@@ -31,7 +31,7 @@ Inicio
    limpatela
    //cleanscreen
 
-   escreval("Você escolheu o número ",numero, ". Sua tabuada é:")
+   escreval("VocÃª escolheu o nÃºmero ",numero, ". Sua tabuada Ã©:")
    escreval(" ")
    //writel(" ")
 
