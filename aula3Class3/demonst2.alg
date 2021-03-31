@@ -1,10 +1,10 @@
 Algoritmo "Contagem usando enquanto"
 //Algorithm "Count using while"
 // Using the VisualG Program: [www.visualg3.com.br/baixe-o-visualg-3-0-7/]
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Course       : [Programming Logic]
 // Professor   : Alexandre Jr
-// Descrição   : Exemplo de repetição usando enquanto
+// DescriÃ§Ã£o   : Exemplo de repetiÃ§Ã£o usando enquanto
 // Description : Repetition example using while
 // Autor(a)    : Gustavo Henrique
 // Author
@@ -12,14 +12,14 @@ Algoritmo "Contagem usando enquanto"
 // Actual Date : 03/30/2021
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    // Variable Declaration Section
    numero: inteiro
    //number: int
 
 Inicio
    //Beginning
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    // Commands section, procedure, functions, operators, etc...
    enquanto numero <= 10 faca
    //while number <= 10 do
